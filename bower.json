@@ -1,10 +1,10 @@
 {
-  "name": "ing-samplevikas",
+  "name": "samplevikas",
   "version": "0.0.1",
   "authors": [
     "vikas"
   ],
-  "description": "ing-samplevikas",
+  "description": "samplevikas",
   "main": "https://github.com/vikasmaveric/ing-samplevikas",
   "keywords": [
     "{{site.project_title}}",
