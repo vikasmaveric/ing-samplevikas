@@ -5,13 +5,13 @@
     "vikas"
   ],
   "description": "samplevikas",
-  "main": "https://github.com/vikasmaveric/ing-samplevikas",
+  "main": "https://github.com/vikasmaveric/samplevikas",
   "keywords": [
     "{{site.project_title}}",
     "webcomponents"
   ],
   "license": "MIT",
-  "homepage": "https://github.com/vikasmaveric/ing-samplevikas",
+  "homepage": "https://github.com/vikasmaveric/samplevikas",
   "ignore": [
     "**/.*",
     "node_modules",
