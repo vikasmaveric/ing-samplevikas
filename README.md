@@ -1,2 +1,2 @@
-# ing-samplevikas
-ing-samplevikas
+# samplevikas
+samplevikas
