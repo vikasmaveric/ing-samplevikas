@@ -1,0 +1,22 @@
+{
+  "name": "ing-samplevikas",
+  "version": "0.0.1",
+  "authors": [
+    "vikas"
+  ],
+  "description": "ing-samplevikas",
+  "main": "https://github.com/vikasmaveric/ing-samplevikas",
+  "keywords": [
+    "{{site.project_title}}",
+    "webcomponents"
+  ],
+  "license": "MIT",
+  "homepage": "https://github.com/vikasmaveric/ing-samplevikas",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
